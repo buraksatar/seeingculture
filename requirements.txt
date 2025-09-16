@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tqdm
+tiktoken
+numpy
+openai
+python-dotenv
+openpyxl
