@@ -1,5 +1,10 @@
 # Multiple Choice Question (MCQ) Generator for Seeing Culture Benchmark (SCB)
 
+# Website
+
+See the project website for more information.
+https://seeingculture-benchmark.github.io/
+
 ## Setup
 
 ```bash
