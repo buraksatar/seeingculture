@@ -2,7 +2,7 @@
 
 # Website
 
-![Seeing Culture: A Benchmark for Visual Reasoning and Grounding]([image-url](https://seeingculture-benchmark.github.io/static/images/teaser.png) "Teaser")
+![Seeing Culture: A Benchmark for Visual Reasoning and Grounding]([image-url](https://seeingculture-benchmark.github.io/static/images/teaser.png)
 
 See the project website for more information.
 https://seeingculture-benchmark.github.io/
