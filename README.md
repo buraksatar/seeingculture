@@ -1,4 +1,4 @@
-# Multiple Choice Question (MCQ) Generator for Seeing Culture Benchmark (SCB)
+# Multiple Choice Question Generator for Seeing Culture Benchmark
 
 ## Seeing Culture: A Benchmark for Visual Reasoning and Grounding
 
