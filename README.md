@@ -1,4 +1,4 @@
-# Multiple Choice Question Generator for Seeing Culture Benchmark
+# MCQ Generator for Seeing Culture Benchmark
 
 ## Seeing Culture: A Benchmark for Visual Reasoning and Grounding
 
@@ -7,7 +7,7 @@
 See the project website for more information.
 https://seeingculture-benchmark.github.io/
 
-## Setup
+## Multiple Choice Question Generator Setup
 
 ```bash
 $ source setup.sh
