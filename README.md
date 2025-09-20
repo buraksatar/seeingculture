@@ -28,7 +28,7 @@ $ source generate.sh
 @misc{
   satar2025seeingculture,
   title={Seeing Culture: A Benchmark for Visual Reasoning and Grounding}, 
-  author={Burak Satar, Zhixin Ma, Patrick Amadeus Irawan, Wilfried Ariel Mulyawan, Jing Jiang, Ee-Peng Lim, Chong-Wah Ngo},
+  author={Burak Satar, Zhixin Ma, Patrick A. Irawan, Wilfried A. Mulyawan, \\ Jing Jiang, Ee-Peng Lim, Chong-Wah Ngo},
   year={2025},
   eprint={comingsoon},
   archivePrefix={arXiv},
