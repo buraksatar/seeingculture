@@ -19,4 +19,13 @@ $ source generate.sh
 3. You can visualize using the `visualizer.ipynb` file (please change the `JSON` file name accordingly).
 
 ## Citation
-
+```
+@misc{
+  satar2025seeingculture,
+  title={Seeing Culture: A Benchmark for Visual Reasoning and Grounding}, 
+  author={Burak Satar, Zhixin Ma, Patrick Amadeus Irawan, Wilfried Ariel Mulyawan, Jing Jiang, Ee-Peng Lim, Chong-Wah Ngo},
+  year={2025},
+  eprint={comingsoon},
+  archivePrefix={arXiv},
+}
+```
